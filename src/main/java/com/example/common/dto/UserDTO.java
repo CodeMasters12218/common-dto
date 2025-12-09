@@ -1,4 +1,4 @@
-﻿package com.example.common.dto;
+package com.example.common.dto;
 
 import java.util.List;
 
@@ -32,4 +32,3 @@ public class UserDTO {
         this.products = products;
     } 
 }
-
